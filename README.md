@@ -42,6 +42,6 @@ Me motiva el **aprendizaje continuo**, la **tecnología aplicada a soluciones re
 ## 📫 Contacto
 📧 [jrdog088@gmail.com]  
 📱 646 412 702  
-📍 Las Palmas de Gran Canaria, España  
+📍 Las Palmas de Gran Canarias, Canarias,  España  
 
 ---
