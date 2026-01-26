@@ -1,16 +1,15 @@
 👋 Hi, soy Juan Rafael Rodríguez Gómez
 
-💻 **Desarrollador Junior** con formación en **DAM + DAW**.  
-Actualmente en **prácticas de Desarrollo Web** en Las Palmas de Gran Canarias y ampliando conocimientos con un **Bootcamp en Inteligencia Artificial 🤖**.  
-
-Me motiva el **aprendizaje continuo**, la **tecnología aplicada a soluciones reales** y combinar el **desarrollo de software** con el **diseño 3D**.  
+💻 **Desarrollador Junior** **DAM + DAW**.  
+ 
+Me gusta programar porque mi código se convierte en algo que la gente puede usar. Disfruto aprendiendo, resolver problemas y ver cómo las ideas toman forma. Me motiva seguir creciendo y aportar en proyectos que tengan sentido y utilidad.
 
 
 ---
 
 ## 🧭 Sobre mí
 - 🎓 Doble titulación: **DAM + DAW**  
-- 🪖 Experiencia en **Fuerzas Armadas**: disciplina, resiliencia y liderazgo  
+- 🪖 19 años en **Fuerzas Armadas Españolas**  
 - 🤖 En formación con un **Bootcamp en Inteligencia Artificial**  
 - ♿ Reconocimiento de **discapacidad del 33%**
 
