@@ -12,15 +12,14 @@ Me motiva el **aprendizaje continuo**, la **tecnología aplicada a soluciones re
 - 🎓 Doble titulación: **DAM + DAW**  
 - 🪖 Experiencia en **Fuerzas Armadas**: disciplina, resiliencia y liderazgo  
 - 🤖 En formación con un **Bootcamp en Inteligencia Artificial**  
-- 🌍 Aprendiendo **inglés (A2 → B2)**  
 - ♿ Reconocimiento de **discapacidad del 33%**
 
 ---
 
 ## 🔧 Mi camino tecnológico
-- ✅ **Ya domino:** Java | HTML | CSS | JS | MySQL | Git  
-- 🚀 **Estoy aprendiendo:** IA (Machine Learning, Data Science, NLP)  
-- 🎯 **Próximos pasos:** Python (FastAPI) e inglés B2  
+- ✅ **Ya domino:** PHP | Python | HTML | CSS | JavaScript | MySQL | Git  
+- 🚀 **Aprendiendo:** IA (Machine Learning, Data Science, NLP...)  
+- 🌍 Aprendiendo **inglés (A2 → B2)**  
 
 ---
 
