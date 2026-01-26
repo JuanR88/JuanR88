@@ -11,7 +11,6 @@ Me motiva el **aprendizaje continuo**, la **tecnología aplicada a soluciones re
 ## 🧭 Sobre mí
 - 🎓 Doble titulación: **DAM + DAW**  
 - 🪖 Experiencia en **Fuerzas Armadas**: disciplina, resiliencia y liderazgo  
-- 💻 En prácticas de **Desarrollo Web**  
 - 🤖 En formación con un **Bootcamp en Inteligencia Artificial**  
 - 🌍 Aprendiendo **inglés (A2 → B2)**  
 - ♿ Reconocimiento de **discapacidad del 33%**
