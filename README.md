@@ -17,7 +17,7 @@ Me gusta programar porque mi código se convierte en algo que la gente puede usa
 
 ## 🔧 Mi camino tecnológico
 - ✅ **Ya domino:** PHP | Python | HTML | CSS | JavaScript | MySQL | Git  
-- 🚀 **Aprendiendo:** IA (Machine Learning, Data Science, NLP...)   
+- 🚀 **Tambien domino** IA (Machine Learning, Data Science, NLP...)   
 
 ---
 
